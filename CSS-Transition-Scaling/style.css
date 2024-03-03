@@ -1,0 +1,13 @@
+html, body 
+{
+	margin: 0;
+	padding: 0;
+	overflow: hidden; /* Prevents scrollbars from appearing */
+}
+
+canvas 
+{
+	transition: width 0.5s ease-out, height 0.5s ease-out;
+	width: 100% !important;
+	height: 100% !important;
+}
