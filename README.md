@@ -46,9 +46,7 @@ canvas
 
 With the results being:
 
-```bash
-FPS: 40
-```
+![Image One](https://github.com/jaketgm/HTML-Resize-Events/blob/main/Fps-Result-LOD.gif)
 
 ## 3. Frame Skipping Resize
 
