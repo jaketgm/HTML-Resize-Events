@@ -110,9 +110,7 @@ function smoothResize()
 
 With the results being:
 
-```bash
-FPS: 40
-```
+![GIF Three](https://github.com/jaketgm/HTML-Resize-Events/blob/main/Fps-Result-RPS.gif)
 
 ## 5. Throttling Resize
 
