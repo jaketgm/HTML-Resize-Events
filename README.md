@@ -34,3 +34,20 @@ With the results being:
 ```bash
 FPS: 40
 ```
+
+## 2. CSS Transition Scaling Resize
+
+```css
+canvas 
+{
+	transition: width 0.5s ease-out, height 0.5s ease-out;
+	width: 100% !important;
+	height: 100% !important;
+}
+```
+
+With the results being:
+
+```bash
+FPS: 40
+```
