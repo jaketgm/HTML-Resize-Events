@@ -104,7 +104,7 @@ function smoothResize()
     const height = canvas.clientHeight;
     const needResize = canvas.width !== width || canvas.height !== height;
     if (needResize) 
-	{
+    {
         const newWidth = THREE.MathUtils.lerp(canvas.width, desiredWidth, 0.05);
         const newHeight = THREE.MathUtils.lerp(canvas.height, desiredHeight, 0.05);
         renderer.setSize(newWidth, newHeight, false);
@@ -125,17 +125,17 @@ FPS: 40
 ```js
 function throttle(callback, limit) 
 {
-	let waiting = false;
-	return function () {
-		if (!waiting) 
-		{
-			callback.apply(this, arguments);
-			waiting = true;
-			setTimeout(function () {
-				waiting = false;
-			}, limit);
-		}
-	}
+    let waiting = false;
+    return function () {
+        if (!waiting) 
+        {
+            callback.apply(this, arguments);
+            waiting = true;
+            setTimeout(function () {
+                waiting = false;
+            }, limit);
+        }
+     }
 }
 ```
 
