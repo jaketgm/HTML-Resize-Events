@@ -31,9 +31,7 @@ function adjustLOD()
 
 With the results being:
 
-```bash
-FPS: 40
-```
+![Image One](https://github.com/jaketgm/HTML-Resize-Events/blob/main/Fps-Result-LOD.mov)
 
 ## 2. CSS Transition Scaling Resize
 
