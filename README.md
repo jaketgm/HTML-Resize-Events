@@ -31,7 +31,7 @@ function adjustLOD()
 
 With the results being:
 
-![Image One](https://github.com/jaketgm/HTML-Resize-Events/blob/main/Fps-Result-LOD.gif)
+![GIF One](https://github.com/jaketgm/HTML-Resize-Events/blob/main/Fps-Result-LOD.gif)
 
 ## 2. CSS Transition Scaling Resize
 
@@ -46,7 +46,7 @@ canvas
 
 With the results being:
 
-![Image One](https://github.com/jaketgm/HTML-Resize-Events/blob/main/Fps-Result-LOD.gif)
+![GIF Two](https://github.com/jaketgm/HTML-Resize-Events/blob/main/Fps-Result-LOD.gif)
 
 ## 3. Frame Skipping Resize
 
@@ -74,9 +74,7 @@ function animate()
 
 With the results being:
 
-```bash
-FPS: 40
-```
+![GIF Three](https://github.com/jaketgm/HTML-Resize-Events/blob/main/Fps-Result-FRAME.gif)
 
 ## 4. Refined Progressive Scaling Resize
 
