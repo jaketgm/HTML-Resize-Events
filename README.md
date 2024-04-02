@@ -31,7 +31,7 @@ function adjustLOD()
 
 With the results being:
 
-![Image One](https://github.com/jaketgm/HTML-Resize-Events/blob/main/Fps-Result-LOD.mov)
+![Image One](https://github.com/jaketgm/HTML-Resize-Events/blob/main/Fps-Result-LOD.gif)
 
 ## 2. CSS Transition Scaling Resize
 
