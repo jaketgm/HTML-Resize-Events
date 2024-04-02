@@ -40,9 +40,9 @@ FPS: 40
 ```css
 canvas 
 {
-	transition: width 0.5s ease-out, height 0.5s ease-out;
-	width: 100% !important;
-	height: 100% !important;
+    transition: width 0.5s ease-out, height 0.5s ease-out;
+    width: 100% !important;
+    height: 100% !important;
 }
 ```
 
